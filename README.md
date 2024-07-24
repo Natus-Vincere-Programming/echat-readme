@@ -9,3 +9,9 @@
 7. A terminal will open with the path to index.html  ![image](https://github.com/user-attachments/assets/91b4a04e-4008-41f3-84b9-f90c317986c7)
 8. In the same terminal, write the command `angular-http-server -p 4200`
 9. The site is available [at the link](http://localhost:4200) (localhost:4200)
+**Installing the backend**
+1. Install [Docker Desktop](https://www.docker.com/products/docker-desktop/) and run it
+2. Download the docker-compose.yml file from this repository
+3. In the terminal, in the path where docker-compose.yml is located, write the *docker compose up* command
+4. If everything is green, then everything is ok, and you can run the frontend part!![image](https://github.com/user-attachments/assets/9be9d477-70fa-459f-98e1-303aab6ea36d)
+
