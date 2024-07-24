@@ -5,10 +5,10 @@
 1. Download Node.js [from the link](https://nodejs.org/en)
 2. Run the command in the terminal `npm install -g angular-http-server`
 3. Download `eChat-application` [from the link](https://github.com/Natus-Vincere-Programming/eChat-application/releases) (he version of the site and the backend must match!!!)
-4. Unpack and follow this path (where index.html is located)  <img width="900" alt="image1" src="https://github.com/user-attachments/assets/f1fdd8e3-3bf8-49e1-aef7-876ec89c95b4">
-5. Enter `cmd` in the path and press Enter <img width="900" alt="image2" src="https://github.com/user-attachments/assets/dd2443ce-268f-478b-ab58-89703528eafd">
+4. Unpack and follow this path (where index.html is located) ![image](https://github.com/user-attachments/assets/0a8b29b8-5665-405c-9e58-5dcfc9aaa6c6)
+5. Enter `cmd` in the path and press Enter ![image](https://github.com/user-attachments/assets/660c0acc-df18-4870-bf15-14011d9dfd43)
 6. If the previous point does not work, then enter the path using  `cd folder`
-7. A terminal will open with the path to index.html  ![image](https://github.com/user-attachments/assets/b9d11e71-5169-4857-b5b0-9ecb4b86ba02)
+7. A terminal will open with the path to index.html  ![image](https://github.com/user-attachments/assets/d6e91320-587f-43ce-b02e-257ffe41e39d)
 8. In the same terminal, write the command `angular-http-server -p 4200`
 9. The site is available [at the link](http://localhost:4200) (localhost:4200)
 **Installing the backend**
