@@ -1,5 +1,6 @@
 # Site launch (Windows)
 **Before starting, be sure to enable the backend part**
+
 video demonstration https://drive.google.com/file/d/1o_E_NC0rX9IKaBg-kV3-gQMARe8DbpqS/view?usp=sharing
 1. Download Node.js [from the link](https://nodejs.org/en)
 2. Run the command in the terminal `npm install -g angular-http-server`
