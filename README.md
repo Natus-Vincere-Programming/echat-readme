@@ -4,7 +4,7 @@
 [video demonstration](https://drive.google.com/file/d/1o_E_NC0rX9IKaBg-kV3-gQMARe8DbpqS/view?usp=sharing)
 1. Download Node.js [from the link](https://nodejs.org/en)
 2. Run the command in the terminal `npm install -g angular-http-server`
-3. Download `eChat-application` [from the link](https://github.com/Natus-Vincere-Programming/eChat-application/releases) (he version of the site and the backend must match!!!)
+3. Download `echat-application.rar` [from the link](https://github.com/Natus-Vincere-Programming/eChat-application/releases)
 4. Unpack and follow this path (where index.html is located) ![image](https://github.com/user-attachments/assets/0a8b29b8-5665-405c-9e58-5dcfc9aaa6c6)
 5. Enter `cmd` in the path and press Enter ![image](https://github.com/user-attachments/assets/660c0acc-df18-4870-bf15-14011d9dfd43)
 6. If the previous point does not work, then enter the path using  `cd folder`
